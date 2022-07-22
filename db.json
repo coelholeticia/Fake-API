@@ -1,0 +1,57 @@
+{
+
+    "Users":[
+        {
+            "id": 1, 
+            "Nome":"Tamara Catell",
+            "Loja":"Artes da Mara",
+            "cidade":"Rio de Janeiro",
+            "Bairro":"Recreio",
+            "Facebook": "Arte-Mara",
+            "Instagram":"ArteMara"     
+        },
+    
+        {
+            "id": 2, 
+            "Nome":"Carla Torres",
+            "Loja":"Carlinda",
+            "cidade":"Rio de Janeiro",
+            "Bairro":"Guaratiba",
+            "Facebook": "Carlinha",
+            "Instagram":"k-carlinha"
+    
+        },
+        {
+            
+            "id": 3, 
+            "Nome":"Fernanda tinol",
+            "Loja":"NadaPinta",
+            "cidade":"Rio de Janeiro",
+            "Bairro":"Barra-da-Tijuca",
+            "Facebook": "nadaPinta",
+            "Instagram": "nadaPinta"
+    
+        },
+        {
+            
+            "id": 4, 
+            "Nome":"Frascisca Silva",
+            "Loja":"xiquinha",
+            "cidade":"Rio de Janeiro",
+            "Bairro":"Santa-cruz",
+            "Facebook": "xiquinha",
+            "Instagram":"xiquinha"
+        },
+        {
+            
+            "id": 5, 
+            "Nome":"Carmen Torres",
+            "Loja":"Carmen",
+            "cidade":"Rio de Janeiro",
+            "Bairro":"Tijuca",
+            "Facebook": "Chiquerrima",
+            "Instagram":"Chiquerrima"
+        }
+    
+    ]
+}
