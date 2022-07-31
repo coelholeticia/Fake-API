@@ -39,7 +39,8 @@
             "Loja":"HippieArtesanato",
             "cidade":"Todo Brasil",
             "Bairro":"Via-correios",
-            "Instagram":"https://www.instagram.com/hippieartesanatos/"
+            "Instagram":"https://www.instagram.com/hippieartesanatos/",
+            "Imagens":"https://recursos.hippieartesanatos.com/i/sd/logo-w.svg"
         },
         {
             
@@ -49,6 +50,7 @@
             "cidade":"Rio de Janeiro",
             "Bairro":"Todo Brasil",
             "Instagram":"https://www.instagram.com/donakacroche/"
+            "Imagens":"https://cdn.beacons.ai/user_content/kYSYlGopmoRRCqSVsnmoIeNu7rP2/profile_donakacroche.png?t=1637102539194"
         }
     
     ]
