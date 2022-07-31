@@ -3,12 +3,12 @@
     "Users":[
         {
             "id": 1, 
-            "Nome":"Tamara Catell",
-            "Loja":"Artes da Mara",
+            "Nome":"Fabiana",
+            "Loja":"Fabi Laços",
             "cidade":"Rio de Janeiro",
             "Bairro":"Recreio",
             "Facebook": "Arte-Mara",
-            "Instagram":"ArteMara"     
+            "Instagram":"https://www.instagram.com/fabilacos_/"     
         },
     
         {
