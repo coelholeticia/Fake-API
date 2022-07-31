@@ -7,7 +7,6 @@
             "Loja":"Fabi Laços",
             "cidade":"Rio de Janeiro",
             "Bairro":"Recreio",
-            "Facebook": "Arte-Mara",
             "Instagram":"https://www.instagram.com/fabilacos_/",
             "Imagens": "https://scontent.fbhz1-2.fna.fbcdn.net/v/t1.6435-9/45844664_303302153618127_7479549365455945728_n.jpg?stp=cp0_dst-jpg_e15_p403x403_q65&_nc_cat=100&ccb=1-7&_nc_sid=85a577&_nc_ohc=tKtZRGgZFowAX8SrnJb&_nc_ht=scontent.fbhz1-2.fna&oh=00_AT-M5VjvygbPYwd78GgYXE2QcpYptJI4pX964RdT1LKa2Q&oe=630B616D"     
         },
@@ -17,8 +16,7 @@
             "Nome":"Fernanda",
             "Loja":"Crocheteria",
             "cidade":"Todo Brasil",
-            "Bairro":"Entrega via correios",
-            "Facebook": "Não possui",
+            "Bairro":"Entrega via correios"
             "Instagram":"https://www.instagram.com/crochetaria/",
             "Imagens":"https://s3.amazonaws.com/img.iluria.com/user_layout_theme/3C651/logo.jpg?r=0.907328"
     
@@ -30,7 +28,6 @@
             "Loja":"RafaBiju",
             "cidade":"Rio de Janeiro",
             "Bairro":"São João de Mereti",
-            "Facebook": "Não possui",
             "Instagram": "https://www.instagram.com/rafabiju2021/",
             "Imagens":"https://scontent.fbhz1-1.fna.fbcdn.net/v/t39.30808-6/293210570_182416050927133_8084001663288696236_n.jpg?stp=cp1_dst-jpg_p843x403&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFZ0saL6M9iUo1ODDIdV6woqAbGQ4WKIzCoBsZDhYojMHHk2dMwiDXGGrB-7fT1OG5AQ_Mi7yfOvkjQl8flVRSD&_nc_ohc=pk7GcTSAzaEAX9w5rn7&_nc_ht=scontent.fbhz1-1.fna&oh=00_AT-UIhrcr-cOv8UZq3LeIrks5B5lUh5hlH76foMnnPl_kA&oe=62EB0C08"
     
@@ -42,7 +39,6 @@
             "Loja":"HippieArtesanato",
             "cidade":"Todo Brasil",
             "Bairro":"Via-correios",
-            "Facebook": "Não Possui",
             "Instagram":"https://www.instagram.com/hippieartesanatos/"
         },
         {
@@ -52,7 +48,6 @@
             "Loja":"donakacroche",
             "cidade":"Rio de Janeiro",
             "Bairro":"Todo Brasil",
-            "Facebook": "https://beacons.page/donakacroche",
             "Instagram":"https://www.instagram.com/donakacroche/"
         }
     
