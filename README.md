@@ -8,7 +8,7 @@ Api criada para projeto InspirArte onde irá mostrar os dados das pessoas cadast
 * Loja:
 * Cidade:
 * Bairro:
-* Facebook:
+* Imagem:
 * Instagram:
 
 
