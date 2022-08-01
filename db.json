@@ -51,7 +51,59 @@
             "Bairro":"Todo Brasil",
             "Instagram":"https://www.instagram.com/donakacroche/",
             "Imagens":"https://cdn.beacons.ai/user_content/kYSYlGopmoRRCqSVsnmoIeNu7rP2/profile_donakacroche.png?t=1637102539194"
+        },
+        {
+            "id": 6, 
+            "Nome":"Aline",
+            "Loja":"alinepavaobiscuit",
+            "cidade":"Brasil",
+            "Bairro":"Todo Brasil",
+            "Instagram":"https://www.instagram.com/alinepavaobiscuit/",
+            "Imagens":"https://bio.linkcdn.to/upload/2022021816/164520015209833840.png"
+            
+        },
+        {
+            "id": 7, 
+            "Nome":"Josi",
+            "Loja":"ateliecrochedajosi",
+            "cidade":"Brasil",
+            "Bairro":"Todo Brasil",
+            "Instagram":"https://www.instagram.com/ateliecrochedajosi/",
+            "Imagens":"https://bio.linkcdn.to/upload/20211125/23251082562"
+            
+        },
+        {
+            "id": 8, 
+            "Nome":"Erika",
+            "Loja":"ecbiscuit_",
+            "cidade":"Brasil",
+            "Bairro":"Todo Brasil",
+            "Instagram":"https://www.instagram.com/ecbiscuit_/",
+            "Imagens":"https://bio.linkcdn.to/20210603/1622683068314.png"
+            
+        },
+        {
+            "id": 9, 
+            "Nome":"Gessica",
+            "Loja":"_bella.lacos1",
+            "cidade":"Brasil",
+            "Bairro":"Todo Brasil",
+            "Instagram":"https://www.instagram.com/_bella.lacos1/",
+            "Imagens":"https://d1fdloi71mui9q.cloudfront.net/qcSAxHgXT0yFNiLjMtZh_8lOe2N4ae1RLUekv"
+            
+        },
+        {
+            "id": 10, 
+            "Nome":"Ahome",
+            "Loja":"ahome.casa1",
+            "cidade":"Brasil",
+            "Bairro":"Todo Brasil",
+            "Instagram":"https://www.instagram.com/ahome.casa/",
+            "Imagens":"https://static.wixstatic.com/media/edf92e_ac73a159ebf946f790416f2ddaf5d012~mv2.png/v1/crop/x_429,y_306,w_795,h_531/fill/w_218,h_145,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M_edited.png"
+            
         }
+
+            
     
     ]
 }
